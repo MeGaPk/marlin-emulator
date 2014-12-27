@@ -3,7 +3,10 @@ marlin-emulator
 
 Emulator Marlin firmware 3D Printers for arduino.
 
-Support Arduino, where ATmega microcontroller. 
+Support arduino, where ATmega microcontroller. 
+
+Tutorial for arduino:
+http://arduino.cc/en/Guide/HomePage
 
 Plan Release:
 
@@ -17,3 +20,9 @@ TODO:
 - Emulate pause for moving Gcodes
 - Emulate "MAX TEMP TRIGGER", if button pressed
 - And etc commands from: http://reprap.org/wiki/G-code
+
+
+Printing tested on:
+- Repetier-Host v0.95F
+- Printrun (PronterFace) v10Mar2014
+- Cura v14.07
