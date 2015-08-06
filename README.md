@@ -13,6 +13,10 @@ Plan Release:
 First version:
 - Dummy code, for "Just printing".
 
+Second version:
+- Answer temperature by "M105"
+- Increased stability for big file print.
+
 TODO: 
 - Parse input Gcodes
 - Emulate operations with Nozzle
